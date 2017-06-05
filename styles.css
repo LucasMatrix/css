@@ -1,19 +1,19 @@
 
-.header {
+#header {
   background:#292c2f;
   padding:20px 40px;
   box-sizing:border-box;
   border:0;
   border-radius:0;}
 
-.header a.navbar-brand.navbar-link {
+#header a.navbar-brand.navbar-link {
   color:#fff;
   font:normal 28px Cookie, Arial, Helvetica, sans-serif;
   line-height:0.5;
   margin-right:40px;
   background:#292c2f;}
 
-.custom-header a.navbar-brand.navbar-link span {
+#custom-header a.navbar-brand.navbar-link span {
   color:#bc40df;}
 
 .custom-header ul.nav.navbar-nav.links li a {
